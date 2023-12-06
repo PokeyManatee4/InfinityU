@@ -11,9 +11,7 @@ InfinityU is a menu replacement for the Wii U gaming console, currently in devel
 
 ## Usage
 
-- Navigate through the menu using the D-pad or touchscreen.
-- Access settings and customization options from the main menu.
-- Explore additional features and enhancements designed to improve your overall gaming experience.
+- Navigate through the menu using the D-pad.
 
 ## Contributing
 
